@@ -40,7 +40,6 @@ GUI:-
 
 <img width="1008" alt="Screenshot 2022-11-05 at 11 53 51 AM" src="https://user-images.githubusercontent.com/116623913/200106016-6854633f-d543-4d7d-aadf-d581edec1c54.png">
 
-Creator : Abhijeet
 
 
 
